@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Quality"
+  short_description: "Score papers from 5 to 0"
+  default_prompt: "Use $paper-quality to score this paper from 5 to 0 for whether it is worth reading or ingesting."
